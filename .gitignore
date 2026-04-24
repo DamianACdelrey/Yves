@@ -1,3 +1,6 @@
 # pdfs
 *.pdf
 *.txt
+
+#Environments
+.venv/
