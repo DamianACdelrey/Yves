@@ -1,9 +1,12 @@
-### Diario de Progreso
+### Progress Journal
 
-##### Primer week
+##### First week
 
-- ✅ Creé mi primer notebook en Google Colab.
-- 🖥️ Probé el entorno local.
-- 💡 Aprendí por qué es más seguro usar `python -m pip` (así te aseguras de instalar los paquetes en el entorno de Python correcto).
-- ⏭️ Conectar el trabajo del curso con un repositorio Git.
-- Solucione un problema de incompatibilidad de versiones python en notebook que impedia abrir el archivo en cursor.
+- ✅ I created my first notebook in Google Colab.
+- 🖥️ I tested the local environment.
+- 💡 I learned why it's safer to use `python -m pip` (this way, you ensure packages are installed in the correct Python environment).
+- ⏭️ Connect the course work with a Git repository.
+- ⏭️ I solved a Python version incompatibility issue in the notebook that was preventing the file from opening in Cursor.
+
+##### Second week
+- ✅ I started to work with python, learned types and common collections.

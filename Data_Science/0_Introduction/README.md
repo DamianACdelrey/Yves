@@ -1,8 +1,7 @@
-### Inicio del curso:
+### Start of the Course:
 
-En esta carpeta están los notebooks y pdfs de la introducción al curso The Data Scientist.
+This folder contains the notebooks and PDFs for the introduction to data science.
 
-- Crear entorno virtual
-- Notebook basicos
-- Git basico
-
+- Create virtual environment
+- Basic notebook
+- Basic Git
