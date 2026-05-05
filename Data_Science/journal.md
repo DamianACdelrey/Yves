@@ -10,3 +10,5 @@
 
 ##### Second week
 - ✅ I started to work with python, learned types and common collections.
+- ✅ Write a new notebook on control flow and small functions
+- ✅ Worked with the basics of I/O operations
