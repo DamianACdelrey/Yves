@@ -10,7 +10,8 @@
 
 ##### Second week
 - ✅ I started to work with python, learned types and common collections.
-- ✅ Write a new notebook on control flow and small functions
-- ✅ Worked with the basics of I/O operations
-- ✅ Learned about Pythonic thinking and common idioms for working with data
-- ✅ Learned the basics of object oriented programming in Python
+- ✅ Write a new notebook on control flow and small functions.
+- ✅ Worked with the basics of I/O operations.
+- ✅ Learned about Pythonic thinking and common idioms for working with data.
+- ✅ Learned the basics of object oriented programming in Python.
+- ✅ Learned about standard algorithms.
