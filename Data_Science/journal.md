@@ -9,9 +9,10 @@
 - ⏭️ I solved a Python version incompatibility issue in the notebook that was preventing the file from opening in Cursor.
 
 ##### Second week
-- ✅ I started to work with python, learned types and common collections.
-- ✅ Write a new notebook on control flow and small functions.
-- ✅ Worked with the basics of I/O operations.
-- ✅ Learned about Pythonic thinking and common idioms for working with data.
-- ✅ Learned the basics of object oriented programming in Python.
-- ✅ Learned about standard algorithms.
+- ✅ Explored Python's core concepts including data types and common collections, which improved my fluency working with lists, tuples, dictionaries, and sets.
+- ✅ Authored a new notebook focused on control flow structures (if statements, loops) and practiced creating small, reusable functions.
+- ✅ Practiced input/output (I/O) operations, learning how to read from and write to files in Python.
+- ✅ Adopted more "pythonic" approaches, studying idioms and best practices for handling and manipulating data efficiently.
+- ✅ Studied the building blocks of object-oriented programming, learning about classes and object creation.
+- ✅ Reviewed and implemented standard algorithms to cement algorithmic thinking.
+- ✅ Began the capstone project, familiarizing myself with the structure of the transactions dataset and outlining my initial approach.
