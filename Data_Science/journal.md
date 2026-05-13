@@ -16,3 +16,6 @@
 - ✅ Studied the building blocks of object-oriented programming, learning about classes and object creation.
 - ✅ Reviewed and implemented standard algorithms to cement algorithmic thinking.
 - ✅ Began the capstone project, familiarizing myself with the structure of the transactions dataset and outlining my initial approach.
+- ✅ Finalized the capstone and the first lab.
+
+Remember to reframe the capstone so you analize the data first, currently the code resolve the problems you already know so you dont find them in the first place
