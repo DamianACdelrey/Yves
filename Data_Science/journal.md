@@ -17,5 +17,7 @@
 - ✅ Reviewed and implemented standard algorithms to cement algorithmic thinking.
 - ✅ Began the capstone project, familiarizing myself with the structure of the transactions dataset and outlining my initial approach.
 - ✅ Finalized the capstone and the first lab.
+- ✅ Finalized the second lab.
+- 💡 I learned in the labs that simple idioms like `dict.get()` and `line.split()` are really useful.
 
 Remember to reframe the capstone so you analize the data first, currently the code resolve the problems you already know so you dont find them in the first place
