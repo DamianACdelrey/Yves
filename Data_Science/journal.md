@@ -19,3 +19,7 @@
 - ✅ Finalized the capstone, realizing the importance of analyzing the dataset first to detect inconsistencies, as well as finalizing the first lab.
 - ✅ Finalized the second lab.
 - 💡 I learned in the labs that simple idioms like `dict.get()` and `line.split()` are really useful.
+
+##### Third week
+- 🖥️ Started working with matplotlib.
+- ✅ Learned basic operations and workflows with numpy arrays.
