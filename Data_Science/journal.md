@@ -23,4 +23,5 @@
 ##### Third week
 - 🖥️ Started working with matplotlib.
 - ✅ Learned basic operations and workflows with numpy arrays.
-- ✅ Started basic work with pandas dataframe
+- ✅ Started basic work with pandas dataframe.
+- ✅ Learned a basic flow to clean and summarize data.
