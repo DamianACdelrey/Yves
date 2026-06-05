@@ -25,3 +25,4 @@
 - ✅ Learned basic operations and workflows with numpy arrays.
 - ✅ Started basic work with pandas dataframe.
 - ✅ Learned a basic flow to clean and summarize data.
+- ✅ Learned how different types of charts fit different questions.
