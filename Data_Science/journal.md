@@ -26,3 +26,4 @@
 - ✅ Started basic work with pandas dataframe.
 - ✅ Learned a basic flow to clean and summarize data.
 - ✅ Learned how different types of charts fit different questions.
+- ✅ advanced the work with pandas and a first glance at performance snd different types of formats
