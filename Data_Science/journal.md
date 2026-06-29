@@ -27,4 +27,5 @@
 - ✅ Learned a basic flow to clean and summarize data.
 - ✅ Learned how different types of charts fit different questions.
 - ✅ advanced the work with pandas and a first glance at performance snd different types of formats
-- ✅ worked in the basic of sql and its realation with pandas
+- ✅ Worked on the basics of SQL and its relation to pandas.
+- ✅ Completed a small project analyzing the sales of a store.
