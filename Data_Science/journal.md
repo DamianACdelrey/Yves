@@ -29,3 +29,4 @@
 - ✅ advanced the work with pandas and a first glance at performance snd different types of formats
 - ✅ Worked on the basics of SQL and its relation to pandas.
 - ✅ Completed a small project analyzing the sales of a store.
+- ✅ Finalized the first lab.
