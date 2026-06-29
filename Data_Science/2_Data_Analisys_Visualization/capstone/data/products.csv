@@ -1,0 +1,13 @@
+product_id,name,category,price_sale,cost_unit,actual_stock
+P001,Cafe molido 500g,Alimentos,8.50,5.10,45
+P002,Te verde caja 20u,Alimentos,4.20,2.50,60
+P003,Galletas avena,Alimentos,3.00,1.80,120
+P004,Chocolate negro 70%,Alimentos,5.50,3.30,80
+P005,Taza ceramica,Hogar,7.90,7.00,150
+P006,Termo acero 500ml,Hogar,15.00,9.00,25
+P007,Filtros papel x100,Hogar,2.50,1.20,90
+P008,Cuaderno A5,Papeleria,3.50,2.00,70
+P009,Boligrafo gel,Papeleria,1.50,0.60,200
+P010,Agenda 2026,Papeleria,12.00,7.50,140
+P011,Miel artesanal 250g,Alimentos,6.80,4.00,35
+P012,Vela aromatica,Hogar,9.00,4.50,55
