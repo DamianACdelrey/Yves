@@ -33,3 +33,4 @@
 
 ##### Fourth week
 - 🖥️ Started working with basic statistics.
+- ✅ Learned the basic concepts of statistics and probability
