@@ -32,5 +32,7 @@
 - ✅ Completed the second lab on storytelling with plots.
 
 ##### Fourth week
-- 🖥️ Started working with basic statistics.
-- ✅ Learned the basic concepts of statistics and probability
+
+- 🖥️ Started working with basic statistics
+- ✅ Learned the fundamental concepts of statistics and probability
+- ✅ Developed good modeling habits to avoid data leakage, and followed the correct workflow to split data and interpret variance and bias
