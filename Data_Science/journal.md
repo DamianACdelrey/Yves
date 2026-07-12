@@ -35,4 +35,5 @@
 
 - 🖥️ Started working with basic statistics
 - ✅ Learned the fundamental concepts of statistics and probability
-- ✅ Developed good modeling habits to avoid data leakage, and followed the correct workflow to split data and interpret variance and bias
+- ✅ Developed good modeling habits to avoid data leakage, and followed the correct workflow to split data and interpret variance and bias.
+- ✅ Implemented a concrete workflow for supervised learning with scikit-learn
