@@ -37,3 +37,4 @@
 - ✅ Learned the fundamental concepts of statistics and probability
 - ✅ Developed good modeling habits to avoid data leakage, and followed the correct workflow to split data and interpret variance and bias.
 - ✅ Implemented a concrete workflow for supervised learning with scikit-learn
+- ✅ Worked on the basics of model avaluation and comparison.
