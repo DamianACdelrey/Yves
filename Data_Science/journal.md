@@ -33,9 +33,10 @@
 
 ##### Fourth week
 
-- 🖥️ Started working with basic statistics
-- ✅ Learned the fundamental concepts of statistics and probability
+- 🖥️ Started working with basic statistics.
+- ✅ Learned the fundamental concepts of statistics and probability.
 - ✅ Developed good modeling habits to avoid data leakage, and followed the correct workflow to split data and interpret variance and bias.
-- ✅ Implemented a concrete workflow for supervised learning with scikit-learn
-- ✅ Worked on the basics of model avaluation and comparison.
-- ✅ Learned basic data transformations, when to applay them and the use of pipelines and column transformers
+- ✅ Implemented a concrete workflow for supervised learning with scikit-learn.
+- ✅ Worked on the basics of model evaluation and comparison.
+- ✅ Learned basic data transformations, when to apply them, and the use of pipelines and column transformers.
+- ✅ Reviewed the overview of unsupervised learning, when to use unsupervised methods, and how they support supervised workflows.
