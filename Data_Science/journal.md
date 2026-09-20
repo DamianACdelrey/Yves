@@ -1,6 +1,7 @@
 ### Progress Journal
 
 ##### First week
+
 - ✅ I created my first notebook in Google Colab.
 - 🖥️ I set up and tested my local environment.
 - 💡 I learned why it's safer to use `python -m pip` (to ensure packages are installed in the correct Python environment).
@@ -8,6 +9,7 @@
 - ⏭️ Solved a Python version incompatibility issue in the notebook, which was preventing the file from opening in Cursor.
 
 ##### Second week
+
 - ✅ Explored Python's core concepts, including data types and common collections. This improved my fluency working with lists, tuples, dictionaries, and sets.
 - ✅ Created a new notebook focused on control flow structures (if statements, loops) and practiced writing small, reusable functions.
 - ✅ Practiced input/output (I/O) operations, learning how to read from and write to files in Python.
@@ -19,7 +21,10 @@
 - ✅ Completed the second lab.
 - 💡 I learned in the labs that simple idioms like `dict.get()` and `line.split()` are very useful.
 
+
+
 ##### Third week
+
 - 🖥️ Started working with matplotlib.
 - ✅ Learned basic operations and workflows with numpy arrays.
 - ✅ Began working with pandas dataframes.
@@ -31,6 +36,8 @@
 - ✅ Completed the first lab on cleaning data.
 - ✅ Completed the second lab on storytelling with plots.
 
+
+
 ##### Fourth week
 
 - 🖥️ Started working with basic statistics.
@@ -41,4 +48,10 @@
 - ✅ Learned basic data transformations, when to apply them, and the use of pipelines and column transformers.
 - ✅ Reviewed the overview of unsupervised learning, when to use unsupervised methods, and how they support supervised workflows.
 - ✅ Finalized the capstone, implementing a complete workflow from data collection to cleaning, modeling, and interpretation.
+
+
+
+##### Fith week
+
 - ✅ Finalized the first lab by adapting a notebook into an actual program with corresponding tests.
+
