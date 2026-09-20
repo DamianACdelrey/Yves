@@ -47,8 +47,8 @@
 - ✅ Worked on the basics of model evaluation and comparison.
 - ✅ Learned basic data transformations, when to apply them, and the use of pipelines and column transformers.
 - ✅ Reviewed the overview of unsupervised learning, when to use unsupervised methods, and how they support supervised workflows.
-- ✅ Finalized the capstone, implementing a complete workflow from data collection to cleaning, modeling, and interpretation.
-
+- ✅ Finalized the capstone, implementing a complete workflow from data collection through cleaning, modeling, and interpretation.
+- ✅ Completed two labs: the first focused on choosing the correct baseline model, and the second addressed overfitting and data leakage.
 
 
 ##### Fith week
